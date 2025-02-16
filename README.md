@@ -37,14 +37,14 @@ Se você precisar ajustar o estilo ou o comportamento do script, edite o arquivo
 
 ## 📌 Créditos
 
-Desenvolvido por **[Seu Nome](https://github.com/seu-usuario)**.  
+Desenvolvido por **[Matheus Vater](https://github.com/evertonVaterDev)**.  
 Projeto criado para aprendizado e demonstração de habilidades em **HTML, CSS e JavaScript**.  
 
 ## 📞 Contato
 
-- ✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
-- 🔗 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- 🐦 Twitter: [@seuusuario](https://twitter.com/seuusuario)  
+- ✉️ Email: [seuemail@email.com](matheusvatereverton)
+- 🔗 GitHub: [github.com/seu-usuario](https://github.com/evertonVaterDev)
+
 
 ## 📜 Licença
 
